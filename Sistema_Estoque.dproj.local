@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/10 13:06:08.000.049,=C:\Users\Pereira\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/10 13:07:19.000.144,C:\Users\Pereira\Documents\Curso Delphi\Arquivos\Arquivos Basicos\UfrmPrincipal.pas=C:\Users\Pereira\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/10 13:07:19.000.145,C:\Users\Pereira\Documents\Curso Delphi\Arquivos\Arquivos Basicos\UfrmPrincipal.dfm=C:\Users\Pereira\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/08/10 13:08:08.000.402,C:\Users\Pereira\Documents\Curso Delphi\Arquivos\Arquivos Basicos\Sistema_Estoque.dproj=C:\Users\Pereira\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/08/10 13:09:03.000.758,=C:\Users\Pereira\Documents\Curso Delphi\Arquivos\Arquivos Basicos\Unit2.pas</Transaction>
+    <Transaction>2021/08/10 13:09:45.000.513,C:\Users\Pereira\Documents\Curso Delphi\Arquivos\Arquivos Basicos\UfrmCadastroProdutos.pas=C:\Users\Pereira\Documents\Curso Delphi\Arquivos\Arquivos Basicos\Unit2.pas</Transaction>
+    <Transaction>2021/08/10 13:09:45.000.513,C:\Users\Pereira\Documents\Curso Delphi\Arquivos\Arquivos Basicos\UfrmCadastroProdutos.dfm=C:\Users\Pereira\Documents\Curso Delphi\Arquivos\Arquivos Basicos\Unit2.dfm</Transaction>
+    <Transaction>2021/08/16 10:55:41.291,C:\Users\Pereira\Documents\Curso Delphi\Arquivos\Teste_git\Sistema_Estoque.dproj=C:\Users\Pereira\Documents\Curso Delphi\Arquivos\Arquivos Basicos\Sistema_Estoque.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
